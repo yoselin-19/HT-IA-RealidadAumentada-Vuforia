@@ -1,4 +1,4 @@
 # HT-IA-RealidadAumentada-Vuforia
+link de video mostrando funcionalidad
 
-## link de video mostrando funcinalidad
 https://youtu.be/nDUzHsIgHTI
